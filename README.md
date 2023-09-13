@@ -8,7 +8,7 @@ All of our achievements were made achievable thanks to the robust AI community i
 
 Kyrgyz Alpaca can be also downloaded from [here](https://drive.google.com/file/d/1ohiBSoyRxrUpFNRDLKknTn6dLgXFtsVV/view?usp=sharing). 
 
-We used ChatGPT and Google Translate to convert [alpaca_data.json](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) into Kyrgyz. Although the translation wasn't perfect, we found it to strike a reasonable balance between cost and quality. The total cost for translating the entire dataset into Kyrgyz was approximately $100.00. If you're interested in learning more about the dataset's creation process, you can visit [the Stanford Alpaca page](https://github.com/tatsu-lab/stanford_alpaca).
+We used ChatGPT and Google Translate to convert [alpaca_data.json](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) into Kyrgyz. Although the translation wasn't perfect, we found it to strike a reasonable balance between cost and quality. The total cost for translating the entire dataset into Kyrgyz was approximately $700.00. If you're interested in learning more about the dataset's creation process, you can visit [the Stanford Alpaca page](https://github.com/tatsu-lab/stanford_alpaca).
 
 ## Next
 We work with Kyrgyz linguists to improve the quality of the translation.
