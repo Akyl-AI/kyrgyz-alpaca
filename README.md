@@ -19,7 +19,7 @@ Please feel free to reach out timur.turat@gmail.com if you are interested in any
 If you use the data or code from this repo, please cite this repo as follows
 ```
 @misc{kyrgyz-alpaca,
-  author = {Timur Turatali, Ulan Abdurazakov},
+  author = {Timur Turatali, Khakim Davurov, Ulan Abdurazakov},
   title = {Kyrgyz Alpaca: Models and Datasets},
   year = {2023},
   publisher = {GitHub},
