@@ -16,6 +16,16 @@ We work with Kyrgyz linguists to improve the quality of the translation.
 Please feel free to reach out timur.turat@gmail.com if you are interested in any forms of collaborations!
 
 ## Citation
-
+If you use the data or code from this repo, please cite this repo as follows
+```
+@misc{kyrgyz-alpaca,
+  author = {Timur Turatali, Ulan Abdurazakov},
+  title = {Kyrgyz Alpaca: Models and Datasets},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Akyl-AI/kyrgyz-alpaca}},
+}
+```
 
 
